@@ -1,5 +1,7 @@
 # Mozilla CA Certs, as a Rust crate
 
+[Documentation](SSL_CTX_use_certificate_chain_file)
+
 This crate statically embeds most of the information from the
 [Mozilla CA Certificate Store][castore] into Rust programs.  This
 includes all the certificates and raw trust entries, as well as more
